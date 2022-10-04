@@ -1,0 +1,21 @@
+.testimonial__container{
+    box-shadow: 3px 3px 6px;
+    padding: 24px;
+    width: 400px;
+    height: 200px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.testimonial__name{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 4px;
+    color: #383838;
+}
+.testimonial__photo{
+    width: 100px;
+    border-radius: 50%;
+}

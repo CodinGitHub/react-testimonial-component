@@ -1,0 +1,11 @@
+button{
+    margin-bottom: 24px;
+    font-size: 24px;
+    border-radius: 16px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: azure;
+}
